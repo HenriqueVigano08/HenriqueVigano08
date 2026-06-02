@@ -8,20 +8,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela USCS e atualmente a
 Tenho experiência prática com automação de processos, integração de sistemas, suporte técnico, organização de dados e criação de relatórios gerenciais.
 Meu foco é evoluir na área de tecnologia, análise de dados, automação e desenvolvimento, criando soluções que otimizem processos e gerem valor para os negócios.
 
-⸻
+__________________________________________________________________________________________________________________________________________
 
 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/HenriqueVigano08">
-    <img src="https://img.shields.io/badge/GitHub-HENRIQUEVIGANO08-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/henrique-viganó">
     <img src="https://img.shields.io/badge/LinkedIn-HENRIQUE%20VIGANÓ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-⸻
+__________________________________________________________________________________________________________________________________________
 
 🧠 O que eu faço
 
@@ -35,7 +32,7 @@ Meu foco é evoluir na área de tecnologia, análise de dados, automação e des
 * ☁️ Estudos em computação em nuvem com AWS
 * 🚀 Aprendizado contínuo em tecnologia e inovação
 
-⸻
+__________________________________________________________________________________________________________________________________________
 
 🛠️ Tecnologias e Ferramentas
 
@@ -45,22 +42,13 @@ Automação e Nuvem
 
 Desenvolvimento
 
-⸻
-
-📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueVigano08&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVigano08&layout=compact&theme=tokyonight" />
-</p>
-
-⸻
+__________________________________________________________________________________________________________________________________________
 
 🎯 Objetivo Profissional
 
 “Acredito que a tecnologia deve simplificar processos, organizar informações e criar soluções que gerem valor real para pessoas e negócios.”
 
-⸻
+__________________________________________________________________________________________________________________________________________
 
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de tecnologia.
 🤝 Aberto a oportunidades, colaborações e projetos na área de tecnologia.
