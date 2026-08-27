@@ -1,142 +1,151 @@
 <div align="center">
 
-# 👋 Olá, eu sou Henrique Viganó
+Henrique Baptista Viganó
 
-### Dados | Automação | BI | Inteligência Artificial
+Dados • Automação • Business Intelligence • Inteligência Artificial
 
-Transformo processos manuais em soluções digitais através de
-**dados, automação, integrações e tecnologia.**
+Transformo processos manuais em soluções digitais por meio de dados, automação e integração de sistemas.
 
-📍 São Caetano do Sul - SP
+LinkedIn • E-mail • São Caetano do Sul - SP
 
-<br>
-
-<a href="www.linkedin.com/in/henrique-viganó">
-  <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Viganó-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Sobre mim • Projetos • Tecnologias • Formação
 
 </div>
 
----
+Sobre mim
 
-## 👨‍💻 Sobre mim
+Sou formado em Análise e Desenvolvimento de Sistemas pela USCS e atualmente curso pós-graduação em Machine Learning Engineering na FIAP.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela USCS** e atualmente curso pós-graduação em **Inteligência Artificial / Machine Learning Engineering na FIAP**.
+Atuo profissionalmente em Tecnologia da Informação, com foco em automação de processos, análise de dados, Business Intelligence e integração entre sistemas. Tenho experiência prática no desenvolvimento de fluxos automatizados, formulários web, dashboards e soluções voltadas à eficiência operacional.
 
-Atuo profissionalmente na área de Tecnologia da Informação, desenvolvendo soluções relacionadas a **automação de processos, análise de dados, integrações entre sistemas e Business Intelligence**.
+Área
 
-Tenho experiência prática com ferramentas como **n8n, Power BI, JavaScript, APIs, Odoo, Salesforce, SQL e Python**.
+Competências
 
----
+Dados e BI
 
-# 🚀 Projetos em destaque
+Power BI, Excel, SQL, modelagem e análise de dados
 
-## 📦 Cadastro de Produtos
+Automação
 
-Aplicação web desenvolvida para facilitar e padronizar o processo de **cadastro de produtos utilizados no Odoo**.
+n8n, Power Automate, APIs e regras de negócio
 
-### O que foi desenvolvido
+Desenvolvimento
 
-* Interface personalizada para cadastro
-* Validação de campos
-* Regras automáticas de classificação
-* Classificação por LOB
-* Definição de origem e tipo do produto
-* Regras específicas para notebooks, desktops, monitores, peças e serviços
-* Preparação das informações para utilização no Odoo
+HTML, CSS, JavaScript e Python
 
-### Tecnologias
+Sistemas
 
-`HTML` `CSS` `JavaScript` `Odoo`
+Odoo, Salesforce e CRM
 
----
+Inteligência Artificial
 
-## 📋 Automação de Submissão de RO
+LLMs, chatbots e automação com IA
 
-Automação desenvolvida para reduzir atividades manuais no processo de **submissão de oportunidades comerciais**.
+Projetos em destaque
 
-### Fluxo
+Cadastro de Produtos
 
-**Jotform → n8n → Tratamento dos dados → Google Sheets → E-mail**
+Aplicação web desenvolvida para padronizar e preparar as informações utilizadas no cadastro de produtos no Odoo, reduzindo inconsistências no preenchimento e facilitando a classificação dos itens.
 
-### O que foi desenvolvido
+Principais entregas
 
-* Recebimento automático das solicitações
-* Tratamento e validação das informações
-* Processamento de múltiplos produtos
-* Aplicação de regras de negócio
-* Registro automático dos dados
-* Geração de informações estruturadas
-* Envio automático de e-mails
+Interface responsiva e personalizada para cadastro;
 
-### Tecnologias
+Campos dinâmicos e validação das informações;
 
-`n8n` `JavaScript` `Jotform` `Google Sheets` `Automação`
+Classificação automática por linha de negócio (LOB);
 
----
+Definição de origem, categoria e tipo do produto;
 
-# 🛠️ Tecnologias
+Regras específicas para notebooks, desktops, monitores, peças, serviços e softwares;
+
+Estruturação dos dados para utilização no Odoo.
+
+Tecnologias
+
+HTML5 • CSS3 • JavaScript • Odoo
+
+Automação de Submissão de Registros de Oportunidade (RO)
+
+Fluxo criado para automatizar o recebimento, tratamento, registro e encaminhamento de oportunidades comerciais, reduzindo atividades manuais e padronizando as informações do processo.
+
+Jotform → n8n → Validação e regras → Google Sheets → E-mail
+
+Principais entregas
+
+Recebimento automático das solicitações enviadas pelo formulário;
+
+Tratamento e validação dos dados;
+
+Processamento de múltiplos produtos em uma mesma solicitação;
+
+Aplicação de regras de negócio com JavaScript;
+
+Registro estruturado das informações em planilha;
+
+Geração e envio automático de e-mails.
+
+Tecnologias
+
+n8n • JavaScript • Jotform • Google Sheets • E-mail
+
+Tecnologias
+
+Categoria
+
+Tecnologias e ferramentas
+
+Desenvolvimento
+
+HTML5 CSS3 JavaScript Python
+
+Dados e BI
+
+Power BI SQL Excel Modelagem de dados
+
+Automação e Integrações
+
+n8n Power Automate APIs REST Jotform
+
+Sistemas e Plataformas
+
+Odoo Salesforce Google Sheets CRM
+
+Inteligência Artificial
+
+LLMs Chatbots Automação com IA
+
+Formação
+
+Instituição
+
+Curso
+
+Situação
+
+FIAP
+
+Pós-graduação em Machine Learning Engineering
+
+Em andamento
+
+USCS
+
+Tecnologia em Análise e Desenvolvimento de Sistemas
+
+Concluído
+
+Objetivo profissional
+
+Busco evoluir nas áreas de Automação, Dados, Business Intelligence, Inteligência Artificial e Desenvolvimento, criando soluções que integrem sistemas, organizem informações e gerem valor para o negócio.
 
 <div align="center">
 
-### Desenvolvimento
+Vamos nos conectar?
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+Estou aberto a oportunidades e projetos nas áreas de Dados, Automação, BI e Inteligência Artificial.
 
-### Dados & BI
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-### Automação & Sistemas
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-</div>
-
----
-
-# 🎓 Formação
-
-**FIAP**
-🤖 Pós-graduação em Inteligência Artificial / Machine Learning Engineering
-`Em andamento`
-
-**USCS — Universidade Municipal de São Caetano do Sul**
-💻 Análise e Desenvolvimento de Sistemas
-`Concluído`
-
----
-
-# 🎯 Atualmente
-
-Busco evoluir cada vez mais nas áreas de:
-
-`Automação` • `Dados` • `Business Intelligence` • `Inteligência Artificial` • `Desenvolvimento`
-
-Meu objetivo é criar soluções que **automatizem tarefas, integrem sistemas, organizem informações e gerem valor para o negócio**.
-
----
-
-<div align="center">
-
-## 🤝 Vamos nos conectar?
-
-Estou aberto a oportunidades e projetos nas áreas de
-**Dados, Automação, BI e Inteligência Artificial.**
-
-<a href="www.linkedin.com/in/henrique-viganó">
-  <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Viganó-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-### ⚙️ Automatizar. 📊 Analisar. 🚀 Evoluir.
+Automatizar • Analisar • Evoluir
 
 </div>
