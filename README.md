@@ -1,151 +1,106 @@
 <div align="center">
 
-Henrique Baptista Viganó
+# Henrique Baptista Viganó
 
-Dados • Automação • Business Intelligence • Inteligência Artificial
+### Dados • Automação • Business Intelligence • Inteligência Artificial
 
 Transformo processos manuais em soluções digitais por meio de dados, automação e integração de sistemas.
 
-LinkedIn • E-mail • São Caetano do Sul - SP
+[LinkedIn](https://www.linkedin.com/in/henrique-vigan%C3%B3/) • [E-mail](mailto:henrique_vigano@outlook.com) • São Caetano do Sul - SP
 
-Sobre mim • Projetos • Tecnologias • Formação
+[Sobre mim](#sobre-mim) • [Projetos](#projetos-em-destaque) • [Tecnologias](#tecnologias) • [Formação](#formação)
 
 </div>
 
-Sobre mim
+---
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela USCS e atualmente curso pós-graduação em Machine Learning Engineering na FIAP.
+## Sobre mim
 
-Atuo profissionalmente em Tecnologia da Informação, com foco em automação de processos, análise de dados, Business Intelligence e integração entre sistemas. Tenho experiência prática no desenvolvimento de fluxos automatizados, formulários web, dashboards e soluções voltadas à eficiência operacional.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela USCS** e atualmente curso pós-graduação em **Machine Learning Engineering na FIAP**.
 
-Área
+Atuo profissionalmente em Tecnologia da Informação, com foco em **automação de processos, análise de dados, Business Intelligence e integração entre sistemas**. Tenho experiência prática no desenvolvimento de fluxos automatizados, formulários web, dashboards e soluções voltadas à eficiência operacional.
 
-Competências
+| Área                        | Competências                                       |
+| --------------------------- | -------------------------------------------------- |
+| **Dados e BI**              | Power BI, Excel, SQL, modelagem e análise de dados |
+| **Automação**               | n8n, Power Automate, APIs e regras de negócio      |
+| **Desenvolvimento**         | HTML, CSS, JavaScript e Python                     |
+| **Sistemas**                | Odoo, Salesforce e CRM                             |
+| **Inteligência Artificial** | LLMs, chatbots e automação com IA                  |
 
-Dados e BI
+---
 
-Power BI, Excel, SQL, modelagem e análise de dados
+## Projetos em destaque
 
-Automação
+### Cadastro de Produtos
 
-n8n, Power Automate, APIs e regras de negócio
+Aplicação web desenvolvida para **padronizar e preparar as informações utilizadas no cadastro de produtos no Odoo**, reduzindo inconsistências no preenchimento e facilitando a classificação dos itens.
 
-Desenvolvimento
+**Principais entregas**
 
-HTML, CSS, JavaScript e Python
+* Interface responsiva e personalizada para cadastro;
+* Campos dinâmicos e validação das informações;
+* Classificação automática por linha de negócio (LOB);
+* Definição de origem, categoria e tipo do produto;
+* Regras específicas para notebooks, desktops, monitores, peças, serviços e softwares;
+* Estruturação dos dados para utilização no Odoo.
 
-Sistemas
+**Tecnologias**
 
-Odoo, Salesforce e CRM
+`HTML5` • `CSS3` • `JavaScript` • `Odoo`
 
-Inteligência Artificial
+### Automação de Submissão de Registros de Oportunidade (RO)
 
-LLMs, chatbots e automação com IA
+Fluxo criado para **automatizar o recebimento, tratamento, registro e encaminhamento de oportunidades comerciais**, reduzindo atividades manuais e padronizando as informações do processo.
 
-Projetos em destaque
+> **Jotform** → **n8n** → **Validação e regras** → **Google Sheets** → **E-mail**
 
-Cadastro de Produtos
+**Principais entregas**
 
-Aplicação web desenvolvida para padronizar e preparar as informações utilizadas no cadastro de produtos no Odoo, reduzindo inconsistências no preenchimento e facilitando a classificação dos itens.
+* Recebimento automático das solicitações enviadas pelo formulário;
+* Tratamento e validação dos dados;
+* Processamento de múltiplos produtos em uma mesma solicitação;
+* Aplicação de regras de negócio com JavaScript;
+* Registro estruturado das informações em planilha;
+* Geração e envio automático de e-mails.
 
-Principais entregas
+**Tecnologias**
 
-Interface responsiva e personalizada para cadastro;
+`n8n` • `JavaScript` • `Jotform` • `Google Sheets` • `E-mail`
 
-Campos dinâmicos e validação das informações;
+---
 
-Classificação automática por linha de negócio (LOB);
+## Tecnologias
 
-Definição de origem, categoria e tipo do produto;
+| Categoria                   | Tecnologias e ferramentas                     |
+| --------------------------- | --------------------------------------------- |
+| **Desenvolvimento**         | `HTML5` `CSS3` `JavaScript` `Python`          |
+| **Dados e BI**              | `Power BI` `SQL` `Excel` `Modelagem de dados` |
+| **Automação e Integrações** | `n8n` `Power Automate` `APIs REST` `Jotform`  |
+| **Sistemas e Plataformas**  | `Odoo` `Salesforce` `Google Sheets` `CRM`     |
+| **Inteligência Artificial** | `LLMs` `Chatbots` `Automação com IA`          |
 
-Regras específicas para notebooks, desktops, monitores, peças, serviços e softwares;
+---
 
-Estruturação dos dados para utilização no Odoo.
+## Formação
 
-Tecnologias
+| Instituição | Curso                                               | Situação     |
+| ----------- | --------------------------------------------------- | ------------ |
+| **FIAP**    | Pós-graduação em Machine Learning Engineering       | Em andamento |
+| **USCS**    | Tecnologia em Análise e Desenvolvimento de Sistemas | Concluído    |
 
-HTML5 • CSS3 • JavaScript • Odoo
+---
 
-Automação de Submissão de Registros de Oportunidade (RO)
+## Objetivo profissional
 
-Fluxo criado para automatizar o recebimento, tratamento, registro e encaminhamento de oportunidades comerciais, reduzindo atividades manuais e padronizando as informações do processo.
-
-Jotform → n8n → Validação e regras → Google Sheets → E-mail
-
-Principais entregas
-
-Recebimento automático das solicitações enviadas pelo formulário;
-
-Tratamento e validação dos dados;
-
-Processamento de múltiplos produtos em uma mesma solicitação;
-
-Aplicação de regras de negócio com JavaScript;
-
-Registro estruturado das informações em planilha;
-
-Geração e envio automático de e-mails.
-
-Tecnologias
-
-n8n • JavaScript • Jotform • Google Sheets • E-mail
-
-Tecnologias
-
-Categoria
-
-Tecnologias e ferramentas
-
-Desenvolvimento
-
-HTML5 CSS3 JavaScript Python
-
-Dados e BI
-
-Power BI SQL Excel Modelagem de dados
-
-Automação e Integrações
-
-n8n Power Automate APIs REST Jotform
-
-Sistemas e Plataformas
-
-Odoo Salesforce Google Sheets CRM
-
-Inteligência Artificial
-
-LLMs Chatbots Automação com IA
-
-Formação
-
-Instituição
-
-Curso
-
-Situação
-
-FIAP
-
-Pós-graduação em Machine Learning Engineering
-
-Em andamento
-
-USCS
-
-Tecnologia em Análise e Desenvolvimento de Sistemas
-
-Concluído
-
-Objetivo profissional
-
-Busco evoluir nas áreas de Automação, Dados, Business Intelligence, Inteligência Artificial e Desenvolvimento, criando soluções que integrem sistemas, organizem informações e gerem valor para o negócio.
+Busco evoluir nas áreas de **Automação, Dados, Business Intelligence, Inteligência Artificial e Desenvolvimento**, criando soluções que integrem sistemas, organizem informações e gerem valor para o negócio.
 
 <div align="center">
 
-Vamos nos conectar?
+### Vamos nos conectar?
 
-Estou aberto a oportunidades e projetos nas áreas de Dados, Automação, BI e Inteligência Artificial.
+Estou aberto a oportunidades e projetos nas áreas de **Dados, Automação, BI e Inteligência Artificial**.
 
-Automatizar • Analisar • Evoluir
+**Automatizar • Analisar • Evoluir**
 
 </div>
