@@ -1,148 +1,157 @@
+<!-- Cabeçalho -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:3B4CCA&height=200&section=header&text=Henrique%20Vigan%C3%B3&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Dados%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Business%20Intelligence%20%C2%B7%20IA&descSize=18&descAlignY=58&animation=fadeIn" alt="Henrique Viganó" />
+
 <div align="center">
 
-# Henrique Baptista Viganó
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C9A7&center=true&vCenter=true&width=640&lines=Transformo+processos+manuais+em+solu%C3%A7%C3%B5es+digitais;Automa%C3%A7%C3%A3o+com+n8n%2C+APIs+e+JavaScript;Integra%C3%A7%C3%A3o+de+sistemas%3A+Odoo%2C+Outlook%2C+Google+Sheets;P%C3%B3s+em+Machine+Learning+Engineering+na+FIAP" alt="Digitando" />
 
-### Dados · Automação · Business Intelligence · Inteligência Artificial
-
-Transformo processos manuais em soluções digitais: integro sistemas, organizo dados e automatizo o que é repetitivo para que as equipes foquem no que gera valor.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
-![Localização](https://img.shields.io/badge/São_Caetano_do_Sul_--_SP-2b3137?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriqueVigano08)
+![São Caetano do Sul - SP](https://img.shields.io/badge/S%C3%A3o_Caetano_do_Sul_--_SP-2b3137?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[Sobre mim](#sobre-mim) • [Projetos](#projetos-em-destaque) • [Tecnologias](#tecnologias) • [Formação](#formação) • [Contato](#contato)
+![Visitas](https://komarev.com/ghpvc/?username=HenriqueVigano08&label=Visitas&color=00C9A7&style=flat-square)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** pela USCS e curso pós-graduação em **Machine Learning Engineering** na **FIAP**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela **USCS** e curso pós-graduação em **Machine Learning Engineering** na **FIAP**.
 
-Atuo em Tecnologia da Informação como responsável pelas automações da empresa, desenvolvendo fluxos automatizados, formulários web, dashboards e integrações entre sistemas que reduzem trabalho manual e padronizam processos.
+Trabalho com Tecnologia da Informação como responsável pelas **automações da empresa**: fluxos automatizados, formulários web, integrações entre sistemas e relatórios que eliminam trabalho manual e padronizam processos.
 
-**No que eu trabalho:**
-
-- ⚙️ **Automação de processos** — fluxos com n8n e Power Automate, integrações via API e aplicação de regras de negócio
-- 📊 **Dados e BI** — dashboards em Power BI, análises com Excel e SQL, modelagem de dados
-- 🔗 **Integração de sistemas** — Odoo, Salesforce e CRMs conectados a formulários, planilhas e e-mail
-- 🤖 **IA aplicada** — LLMs, chatbots e automações com inteligência artificial
+```js
+const henrique = {
+  foco:        ["Automação", "Dados", "Business Intelligence", "IA"],
+  automacao:   ["n8n", "Power Automate", "APIs REST", "JSON-RPC"],
+  sistemas:    ["Odoo", "Salesforce", "Outlook", "Google Sheets"],
+  estudando:   "Machine Learning Engineering @ FIAP",
+  objetivo:    "Integrar sistemas e transformar dados em decisões",
+};
+```
 
 ---
 
-## Projetos em destaque
+## 🛠️ Tecnologias
+
+<div align="center">
+
+### Linguagens e desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,md,git,github,vscode&perline=8" alt="HTML, CSS, JavaScript, Python, Markdown, Git, GitHub, VS Code" />
+
+### Automação e integrações
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-000000?style=for-the-badge&logo=json&logoColor=white)
+![Jotform](https://img.shields.io/badge/Jotform-0A1551?style=for-the-badge&logo=jotform&logoColor=white)
+
+### Dados e BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+### Sistemas e plataformas
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logoColor=white)
+
+### Inteligência Artificial
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white)
+![Chatbots](https://img.shields.io/badge/Chatbots-412991?style=for-the-badge&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 [Registro de Oportunidades + CRM Odoo](https://github.com/HenriqueVigano08/n8n-ro-crm-odoo)
+
+Lê os e-mails de status do fabricante e mantém o CRM Odoo atualizado sozinho: cria, atualiza e renova oportunidades e avisa o vendedor de cada mudança.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-000000?style=flat-square&logo=json&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ [Cadastro e Sorteio de Evento](https://github.com/HenriqueVigano08/n8n-cadastro-sorteio-evento)
+
+Página de cadastro bilíngue com QR Code, validação no servidor, aviso LGPD e um painel de sorteio auditável que nunca premia a mesma pessoa duas vezes.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📬 [Notificação de RO Submetido](https://github.com/HenriqueVigano08/n8n-notificacao-ro-submetido)
+
+Monitora a caixa de e-mail, identifica o vendedor de cada registro submetido e envia a notificação automaticamente, sem duplicar envios.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛒 Cadastro de Produtos para Odoo
 
-> Aplicação web que padroniza as informações usadas no cadastro de produtos no Odoo.
-
-**Problema:** o cadastro manual gerava inconsistências no preenchimento e dificultava a classificação dos itens.
-
-**Solução:** uma interface com campos dinâmicos e validações que guia o preenchimento e classifica cada produto automaticamente.
-
-- Classificação automática por linha de negócio (LOB)
-- Definição de origem, categoria e tipo do produto
-- Regras específicas para notebooks, desktops, monitores, peças, serviços e softwares
-- Dados estruturados e prontos para importação no Odoo
-- Interface responsiva e personalizada
-
-<!-- Se tiver um número de resultado, adicione aqui. Ex.: **Resultado:** redução de X% nos erros de cadastro. -->
+Aplicação web que padroniza o cadastro de produtos no Odoo, com campos dinâmicos, validações e classificação automática por linha de negócio.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
-<!-- [🔗 Ver repositório](LINK) · [▶️ Demonstração](LINK) -->
+</td>
+</tr>
+</table>
 
 ---
 
-### 📝 Automação de Registros de Oportunidade (RO)
-
-> Fluxo que automatiza o recebimento, tratamento, registro e encaminhamento de oportunidades comerciais.
-
-**Problema:** as solicitações de registro de oportunidade eram tratadas manualmente, com retrabalho e falta de padronização.
-
-**Solução:** um fluxo de ponta a ponta que recebe o formulário, aplica as regras de negócio, registra os dados e dispara os e-mails automaticamente.
-
-```mermaid
-flowchart LR
-    A[Jotform<br/>solicitação] --> B[n8n<br/>recebimento]
-    B --> C[Validação e regras<br/>JavaScript]
-    C --> D[(Google Sheets<br/>registro)]
-    D --> E[E-mail<br/>automático]
-```
-
-- Recebimento automático das solicitações enviadas pelo formulário
-- Tratamento e validação dos dados
-- Processamento de múltiplos produtos em uma mesma solicitação
-- Registro estruturado em planilha
-- Geração e envio automático de e-mails
-
-<!-- Se tiver um número de resultado, adicione aqui. Ex.: **Resultado:** X horas economizadas por mês / Y solicitações processadas. -->
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jotform](https://img.shields.io/badge/Jotform-0A1551?style=flat-square&logo=jotform&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-
----
-
-## Tecnologias
-
-**Automação e integrações**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-555555?style=for-the-badge&logoColor=white)
-![Jotform](https://img.shields.io/badge/Jotform-0A1551?style=for-the-badge&logo=jotform&logoColor=white)
-
-**Dados e BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-**Desenvolvimento**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Sistemas e plataformas**
-
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-555555?style=for-the-badge&logoColor=white)
-
-**Inteligência Artificial**
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white)
-![Chatbots](https://img.shields.io/badge/Chatbots-412991?style=for-the-badge&logoColor=white)
-![Automação com IA](https://img.shields.io/badge/Automação_com_IA-412991?style=for-the-badge&logoColor=white)
-
----
-
-## Formação
+## 🎓 Formação
 
 | Instituição | Curso | Situação |
-|---|---|---|
+|:---:|---|:---:|
 | **FIAP** | Pós-graduação em Machine Learning Engineering | 🟡 Em andamento |
 | **USCS** | Tecnologia em Análise e Desenvolvimento de Sistemas | ✅ Concluído |
 
 ---
 
-## Contato
+## 🤝 Vamos conversar?
 
-Busco evoluir nas áreas de **Automação, Dados, Business Intelligence e Inteligência Artificial**, criando soluções que integrem sistemas, organizem informações e gerem valor para o negócio.
+Busco evoluir nas áreas de **Automação, Dados, Business Intelligence e Inteligência Artificial**, criando soluções que integram sistemas, organizam informações e geram valor para o negócio.
 
-Estou aberto a oportunidades e projetos nessas áreas. Fique à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) ou por [e-mail](mailto:SEU-EMAIL).
+Estou aberto a oportunidades e projetos nessas áreas. Me chame no [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) ou por [e-mail](mailto:SEU-EMAIL).
 
 <div align="center">
 
-**Automatizar · Analisar · Evoluir**
+**⚙️ Automatizar · 📊 Analisar · 🚀 Evoluir**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B4CCA,100:00C9A7&height=120&section=footer" alt="" />
