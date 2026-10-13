@@ -7,12 +7,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-viganó)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique_vigano@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriqueVigano08)
-![São Caetano do Sul - SP](https://img.shields.io/badge/S%C3%A3o_Caetano_do_Sul_--_SP-2b3137?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-![Visitas](https://komarev.com/ghpvc/?username=HenriqueVigano08&label=Visitas&color=00C9A7&style=flat-square)
 
 </div>
 
@@ -24,15 +21,12 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela **USCS** e curso 
 
 Trabalho com Tecnologia da Informação como responsável pelas **automações da empresa**: fluxos automatizados, formulários web, integrações entre sistemas e relatórios que eliminam trabalho manual e padronizam processos.
 
-```js
-const henrique = {
-  foco:        ["Automação", "Dados", "Business Intelligence", "IA"],
-  automacao:   ["n8n", "Power Automate", "APIs REST", "JSON-RPC"],
-  sistemas:    ["Odoo", "Salesforce", "Outlook", "Google Sheets"],
-  estudando:   "Machine Learning Engineering @ FIAP",
-  objetivo:    "Integrar sistemas e transformar dados em decisões",
-};
-```
+- 🔭 Atualmente trabalho com **automação de processos e integração de sistemas**
+- ⚙️ Automatizo com **n8n, Power Automate, APIs REST e JSON-RPC**
+- 🔗 Integro **Odoo, Salesforce, Outlook e Google Sheets**
+- 📊 Analiso dados com **Power BI, Excel e SQL**
+- 🌱 Estudando **Machine Learning Engineering na FIAP**
+- 🎯 Objetivo: **integrar sistemas e transformar dados em decisões**
 
 ---
 
@@ -42,7 +36,7 @@ const henrique = {
 
 ### Linguagens e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,md,git,github,vscode&perline=8" alt="HTML, CSS, JavaScript, Python, Markdown, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode&perline=8" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code" />
 
 ### Automação e integrações
 
@@ -50,7 +44,6 @@ const henrique = {
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/APIs_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JSON-RPC](https://img.shields.io/badge/JSON--RPC-000000?style=for-the-badge&logo=json&logoColor=white)
-![Jotform](https://img.shields.io/badge/Jotform-0A1551?style=for-the-badge&logo=jotform&logoColor=white)
 
 ### Dados e BI
 
@@ -88,7 +81,6 @@ Lê os e-mails de status do fabricante e mantém o CRM Odoo atualizado sozinho: 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JSON-RPC](https://img.shields.io/badge/JSON--RPC-000000?style=flat-square&logo=json&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +110,7 @@ Monitora a caixa de e-mail, identifica o vendedor de cada registro submetido e e
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Cadastro de Produtos para Odoo
+### 🛒 [Cadastro de Produtos para Odoo](https://github.com/HenriqueVigano08/cadastro-produtos-odoo.git)
 
 Aplicação web que padroniza o cadastro de produtos no Odoo, com campos dinâmicos, validações e classificação automática por linha de negócio.
 
@@ -146,7 +138,7 @@ Aplicação web que padroniza o cadastro de produtos no Odoo, com campos dinâmi
 
 Busco evoluir nas áreas de **Automação, Dados, Business Intelligence e Inteligência Artificial**, criando soluções que integram sistemas, organizam informações e geram valor para o negócio.
 
-Estou aberto a oportunidades e projetos nessas áreas. Me chame no [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) ou por [e-mail](mailto:SEU-EMAIL).
+Estou aberto a oportunidades e projetos nessas áreas. Me chame no [LinkedIn](https://www.linkedin.com/in/henrique-viganó) ou por [e-mail](mailto:henrique_vigano@outlook.com).
 
 <div align="center">
 
